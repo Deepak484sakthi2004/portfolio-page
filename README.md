@@ -1,16 +1,16 @@
 # My Portfolio
 
-Welcome to my personal portfolio! This repository contains the code for my portfolio website where I showcase my skills, projects, and experience
-[Explore My Profile] (https://deepaksakthi-v-k.web.app)
+Welcome to my personal portfolio! This repository contains the code for my portfolio website where I showcase my skills, projects, and experience.
+
+[Explore My Profile](https://deepaksakthi-v-k.web.app)
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
+
 
 ## Introduction
 
@@ -30,3 +30,10 @@ To view my portfolio locally, follow these steps:
 
    ```bash
    git clone https://github.com/Deepak484sakthi2004/portfolio-page.git
+
+2. cd portfolio-page
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
